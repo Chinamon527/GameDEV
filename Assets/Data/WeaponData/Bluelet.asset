@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7533cc2edc5c76747ad6eefc44fd3328, type: 3}
+  m_Name: Bluelet
+  m_EditorClassIdentifier: 
+  Name: Bluelet
+  stats:
+    damage: 100
+    timeToAttack: 2
+    numberOfAttack: 1
+  weaponBasePrefab: {fileID: 8871012078822847551, guid: 9834f81fe37fc524e9d1234ab93b6d18, type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: c1bac4a52eacd3146bcc56947b2d31f0, type: 2}
+  - {fileID: 11400000, guid: 50b4c4867029b6944b479c89eea0db5a, type: 2}
+  - {fileID: 11400000, guid: 0d7702960e8930b43961b8b606085c0e, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43998d51e31366245876b9a4f1930195, type: 3}
+  m_Name: Goblin EnemyData
+  m_EditorClassIdentifier: 
+  Name: Goblin
+  anitionPrefub: {fileID: 4085808721209984998, guid: 3235764c3140ee54cba6c9902641bb2d, type: 3}
+  stats:
+    hp: 300
+    damage: 25
+    experience_reward: 600
+    movespeed: 1

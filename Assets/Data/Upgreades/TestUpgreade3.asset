@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 758a8d6666988ce4fa3a89ae48b9d608, type: 3}
+  m_Name: TestUpgreade3
+  m_EditorClassIdentifier: 
+  UpgradeType: 0
+  Name: Test3
+  icon: {fileID: 21300000, guid: e8265f391af75c047b96b39b2910f4b6, type: 3}
